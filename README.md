@@ -1,2 +1,2 @@
-# neandergen
-Comparative Genomic Analysis of Neanderthals using Bioinformatics
+# nipahsars2gen
+Comparative Genomic Analysis of Nipah Virus and SARS-CoV-2 using Bioinformatics
